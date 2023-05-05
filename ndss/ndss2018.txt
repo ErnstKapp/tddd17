@@ -1,0 +1,71 @@
+IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing.*** No abstract available ***
+Fear and Logging in the Internet of Things.*** No abstract available ***
+Decentralized Action Integrity for Trigger-Action IoT Platforms.*** No abstract available ***
+What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices.*** No abstract available ***
+Didn't You Hear Me? - Towards More Successful Web Vulnerability Notifications.*** No abstract available ***
+Exposing Congestion Attack on Emerging Connected Vehicle based Traffic Signal Control.*** No abstract available ***
+Removing Secrets from Android's TLS.*** No abstract available ***
+rtCaptcha: A Real-Time CAPTCHA Based Liveness Detection System.*** No abstract available ***
+Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach.*** No abstract available ***
+Preventing (Network) Time Travel with Chronos.*** No abstract available ***
+LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE.*** No abstract available ***
+GUTI Reallocation Demystified: Cellular Location Tracking with Changing Temporary Identifier.*** No abstract available ***
+Mind Your Keys? A Security Evaluation of Java Keystores.*** No abstract available ***
+A Security Analysis of Honeywords.*** No abstract available ***
+Revisiting Private Stream Aggregation: Lattice-Based PSA.*** No abstract available ***
+ZeroTrace : Oblivious Memory Primitives from Intel SGX.*** No abstract available ***
+Automated Website Fingerprinting through Deep Learning.*** No abstract available ***
+VulDeePecker: A Deep Learning-Based System for Vulnerability Detection.*** No abstract available ***
+Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection.*** No abstract available ***
+Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks.*** No abstract available ***
+Trojaning Attack on Neural Networks.*** No abstract available ***
+Broken Fingers: On the Usage of the Fingerprint API in Android.*** No abstract available ***
+K-means++ vs. Behavioral Biometrics: One Loop to Rule Them All.*** No abstract available ***
+ABC: Enabling Smartphone Authentication with Built-in Camera.*** No abstract available ***
+Device Pairing at the Touch of an Electrode.*** No abstract available ***
+Face Flashing: a Secure Liveness Detection Protocol based on Light Reflections.*** No abstract available ***
+A Large-scale Analysis of Content Modification by Open HTTP Proxies.*** No abstract available ***
+Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis.*** No abstract available ***
+Towards Measuring the Effectiveness of Telephony Blacklists.*** No abstract available ***
+Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation.*** No abstract available ***
+KeyDrown: Eliminating Software-Based Keystroke Timing Side-Channel Attacks.*** No abstract available ***
+Securing Real-Time Microcontroller Systems through Customized Memory View Switching.*** No abstract available ***
+Automated Generation of Event-Oriented Exploits in Android Hybrid Apps.*** No abstract available ***
+Tipped Off by Your Memory Allocator: Device-Wide User Activity Sequencing from Android Memory Images.*** No abstract available ***
+K-Miner: Uncovering Memory Corruption in Linux.*** No abstract available ***
+CFIXX: Object Type Integrity for C++.*** No abstract available ***
+Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets.*** No abstract available ***
+Superset Disassembly: Statically Rewriting x86 Binaries Without Heuristics.*** No abstract available ***
+Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing.*** No abstract available ***
+Finding Clues for Your Secrets: Semantics-Driven, Learning-Based Privacy Discovery in Mobile Apps.*** No abstract available ***
+Bug Fixes, Improvements, ... and Privacy Leaks - A Longitudinal Study of PII Leaks Across Android App Versions.*** No abstract available ***
+Apps, Trackers, Privacy, and Regulators: A Global Study of the Mobile Tracking Ecosystem.*** No abstract available ***
+OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS.*** No abstract available ***
+Knock Knock, Who's There? Membership Inference on Aggregate Location Data.*** No abstract available ***
+Reduced Cooling Redundancy: A New Security Vulnerability in a Hot Data Center.*** No abstract available ***
+OBLIVIATE: A Data Oblivious Filesystem for Intel SGX.*** No abstract available ***
+Microarchitectural Minefields: 4K-Aliasing Covert Channel and Multi-Tenant Detection in Iaas Clouds.*** No abstract available ***
+Cloud Strife: Mitigating the Security Risks of Domain-Validated Certificates.*** No abstract available ***
+Consensual and Privacy-Preserving Sharing of Multi-Subject and Interdependent Data.*** No abstract available ***
+When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries.*** No abstract available ***
+De-anonymization of Mobility Trajectories: Dissecting the Gaps between Theory and Practice.*** No abstract available ***
+Veil: Private Browsing Semantics Without Browser-side Assistance.*** No abstract available ***
+Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations.*** No abstract available ***
+SYNODE: Understanding and Automatically Preventing Injection Attacks on NODE.JS.*** No abstract available ***
+JavaScript Zero: Real JavaScript and Zero Side-Channel Attacks.*** No abstract available ***
+Riding out DOMsday: Towards Detecting and Preventing DOM Cross-Site Scripting.*** No abstract available ***
+Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs.*** No abstract available ***
+MCI : Modeling-based Causality Inference in Audit Logging for Attack Investigation.*** No abstract available ***
+Towards a Timely Causality Analysis for Enterprise Security.*** No abstract available ***
+JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions.*** No abstract available ***
+AceDroid: Normalizing Diverse Android Access Control Checks for Inconsistency Detection.*** No abstract available ***
+InstaGuard: Instantly Deployable Hot-patches for Vulnerable System Programs on Android.*** No abstract available ***
+BreakApp: Automated, Flexible Application Compartmentalization.*** No abstract available ***
+Resolving the Predicament of Android Custom Permissions.*** No abstract available ***
+ZEUS: Analyzing Safety of Smart Contracts.*** No abstract available ***
+Chainspace: A Sharded Smart Contracts Platform.*** No abstract available ***
+Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions.*** No abstract available ***
+TLS-N: Non-repudiation over TLS Enablign Ubiquitous Content Signing.*** No abstract available ***
+Investigating Ad Transparency Mechanisms in Social Media: A Case Study of Facebooks Explanations.*** No abstract available ***
+Inside Job: Applying Traffic Analysis to Measure Tor from Within.*** No abstract available ***
+Smoke Screener or Straight Shooter: Detecting Elite Sybil Attacks in User-Review Social Networks.*** No abstract available ***

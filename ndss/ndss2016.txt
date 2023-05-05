@@ -1,0 +1,63 @@
+Keynote: On Subverting Trust.
+Security research is an exercise in paranoia. But sometimes even we researchers aren’t paranoid enough. In this talk I’ll cover the problem of establishing trust in an environment where trust has been broken — subverted, in some cases by malicious attackers, and in others by governments. I’ll focus primarily on two recent incidents: the 2015 hack of Juniper Networks, which led to serious vulnerabilities in widely-trusted VPN devices; and the recent efforts by governments to obtain “cryptographic backdoors” into end-to-end encryption systems that are increasingly popular on smartphones.
+
+Transcript Collision Attacks: Breaking Authentication in TLS, IKE and SSH.*** No abstract available ***
+TLS in the Wild: An Internet-wide Analysis of TLS-based Protocols for Electronic Communication.*** No abstract available ***
+Killed by Proxy: Analyzing Client-end TLS Interce.*** No abstract available ***
+SIBRA: Scalable Internet Bandwidth Reservation Architecture.*** No abstract available ***
+Don't Forget to Lock the Back Door! A Characterization of IPv6 Network Security Policy.*** No abstract available ***
+Attacking the Network Time Protocol.*** No abstract available ***
+SPIFFY: Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding Attacks.*** No abstract available ***
+CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities.*** No abstract available ***
+It's Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services.*** No abstract available ***
+Attack Patterns for Black-Box Security Testing of Multi-Party Web Applications.*** No abstract available ***
+Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces.*** No abstract available ***
+Enabling Practical Software-defined Networking Security Applications with OFX.*** No abstract available ***
+Forwarding-Loop Attacks in Content Delivery Networks.*** No abstract available ***
+CDN-on-Demand: An affordable DDoS Defense via Untrusted Clouds.*** No abstract available ***
+Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security.*** No abstract available ***
+Centrally Banked Cryptocurrencies.*** No abstract available ***
+Equihash: Asymmetric Proof-of-Work Based on the Generalized Birthday Problem.*** No abstract available ***
+A Simple Generic Attack on Text Captchas.*** No abstract available ***
+You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild.*** No abstract available ***
+Tracking Mobile Web Users Through Motion Sensors: Attacks and Defenses.*** No abstract available ***
+The Price of Free: Privacy Leakage in Personalized Mobile In-Apps Ads.*** No abstract available ***
+What Mobile Ads Know About Mobile Users.*** No abstract available ***
+Free for All! Assessing User Data Exposure to Advertising Libraries on Android.*** No abstract available ***
+Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems.*** No abstract available ***
+Towards Automated Dynamic Analysis for Linux-based Embedded Firmware.*** No abstract available ***
+discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code.*** No abstract available ***
+Driller: Augmenting Fuzzing Through Selective Symbolic Execution.*** No abstract available ***
+VTrust: Regaining Trust on Virtual Calls.*** No abstract available ***
+Protecting C++ Dynamic Dispatch Through VTable Interleaving.*** No abstract available ***
+ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting.*** No abstract available ***
+Who's in Control of Your Control System? Device Fingerprinting for Cyber-Physical Systems.*** No abstract available ***
+SKEE: A lightweight Secure Kernel-level Execution Environment for ARM.*** No abstract available ***
+OpenSGX: An Open Platform for SGX Research.*** No abstract available ***
+Efficient Private Statistics with Succinct Sketches.*** No abstract available ***
+Dependence Makes You Vulnberable: Differential Privacy Under Dependent Tuples.*** No abstract available ***
+Privacy-Preserving Shortest Path Computation.*** No abstract available ***
+LinkMirage: Enabling Privacy-preserving Analytics on Social Relationships.*** No abstract available ***
+Do You See What I See? Differential Treatment of Anonymous Users.*** No abstract available ***
+Measuring and Mitigating AS-level Adversaries Against Tor.*** No abstract available ***
+Website Fingerprinting at Internet Scale.*** No abstract available ***
+Extract Me If You Can: Abusing PDF Parsers in Malware Detectors.*** No abstract available ***
+Automatically Evading Classifiers: A Case Study on PDF Malware Classifiers.*** No abstract available ***
+Cache, Trigger, Impersonate: Enabling Context-Sensitive Honeyclient Analysis On-the-Wire.*** No abstract available ***
+LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis.*** No abstract available ***
+When a Tree Falls: Using Diversity in Ensemble Classifiers to Identify Evasion in Malware Detectors.*** No abstract available ***
+Kratos: Discovering Inconsistent Security Policy Enforcement in the Android Framework.*** No abstract available ***
+How to Make ASLR Win the Clone Wars: Runtime Re-Randomization.*** No abstract available ***
+Leakage-Resilient Layout Randomization for Mobile Devices.*** No abstract available ***
+Enabling Client-Side Crash-Resistance to Overcome Diversification and Information Hiding.*** No abstract available ***
+Enforcing Kernel Security Invariants with Data Flow Integrity.*** No abstract available ***
+Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy.*** No abstract available ***
+Life after App Uninstallation: Are the Data Still Alive? Data Residue Attacks on Android.*** No abstract available ***
+FLEXDROID: Enforcing In-App Privilege Separation in Android.*** No abstract available ***
+IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware.*** No abstract available ***
+Harvesting Runtime Values in Android Applications That Feature Anti-Analysis Techniques.*** No abstract available ***
+Automatic Forgery of Cryptographically Consistent Messages to Identify Security Vulnerabilities in Mobile Services.*** No abstract available ***
+Differentially Private Password Frequency Lists.*** No abstract available ***
+Who Are You? A Statistical Approach to Measuring User Authenticity.*** No abstract available ***
+Pitfalls in Designing Zero-Effort Deauthentication: Opportunistic Human Observation Attacks.*** No abstract available ***
+VISIBLE: Video-Assisted Keystroke Inference from Tablet Backside Motion.*** No abstract available ***
